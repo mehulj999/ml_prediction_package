@@ -1,0 +1,6 @@
+float64 culmen_length_mm
+float64 culmen_depth_mm
+float64 flipper_length_mm
+float64 body_mass_g
+string island
+string sex

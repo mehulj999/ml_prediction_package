@@ -1,0 +1,3 @@
+int32 predicted_class
+string diagnosis
+float64 confidence

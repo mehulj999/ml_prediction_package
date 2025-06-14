@@ -1,0 +1,20 @@
+iris_training_node:
+  ros__parameters:
+    data_path: "data/Iris.csv"
+    model_output_path: "models/iris_voting_classifier.pkl"
+
+breast_cancer_training_node:
+  ros__parameters:
+    data_path: "data/Breast_Cancer.csv"
+    model_output_path: "models/breast_cancer_model.pkl"
+
+penguin_training_node:
+  ros__parameters:
+    data_path: "data/Penguin.csv"
+    model_output_path: "models/penguin_svm_linear.pkl"
+
+fruit_training_node:
+  ros__parameters:
+    data_path: "data/fruits_weight_sphercity.csv"
+    model_output_path: "models/fruit_model_with_color.pkl"
+    encoder_output_path: "models/fruit_label_encoder.pkl"

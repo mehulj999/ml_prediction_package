@@ -1,0 +1,3 @@
+int32 predicted_class
+string species_name
+float64 confidence

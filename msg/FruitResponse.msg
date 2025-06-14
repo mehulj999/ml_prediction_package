@@ -1,0 +1,3 @@
+int32 predicted_class
+string fruit_name
+float64 confidence
